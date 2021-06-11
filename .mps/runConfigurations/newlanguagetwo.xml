@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="newlanguagetwo" type="Build Script" factoryName="Build Script">
+    <myNodePointer>
+      <MyState>
+        <option name="myNodePointer" value="r:476b98e1-f272-4685-8d5d-253d88f26d34(MPSBuildSample.build)/6979165751955774833" />
+        <option name="myNodeText" value="MPSBuildSample.build.newlanguagetwo" />
+      </MyState>
+    </myNodePointer>
+    <mySettings>
+      <MyState>
+        <option name="myUseOtherAntLocation" value="false" />
+        <option name="myOtherAntLocation" value="" />
+        <option name="myAntOptions" value="clean generate build" />
+      </MyState>
+    </mySettings>
+    <method v="2" />
+  </configuration>
+</component>
